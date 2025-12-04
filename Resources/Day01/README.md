@@ -16,14 +16,14 @@
 
 ![image](https://github.com/piyushsachdeva/CKA-2024/assets/40286378/b1bfe6ae-a1e6-4b04-8486-272d3ed380bc)
 
+* **Hypervisor** - It's uses virtualization concept, where it allows you to create and run the multiple VM's on single server.
+* **Contianer Engine** - It's allows to run mutliple container instance runs on a machine. 
+
 
 ## Containers V/S Virtual machines with the help of a Building and House analogy
 
 
 ![image](https://github.com/piyushsachdeva/CKA-2024/assets/40286378/48061343-195d-4299-8815-0856e9b5af71)
-
-* Hypervisor - It's uses virtualization concept, where it allows you to create and run the multiple VM's on single server.
-* Contianer Engine - It's allows to run mutliple container instance runs on a machine. 
 
 
 
