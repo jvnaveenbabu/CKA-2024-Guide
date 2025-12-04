@@ -22,6 +22,9 @@
 
 ![image](https://github.com/piyushsachdeva/CKA-2024/assets/40286378/48061343-195d-4299-8815-0856e9b5af71)
 
+* Hypervisor - It's uses virtualization concept, where it allows you to create and run the multiple VM's on single server.
+* Contianer Engine - It's allows to run mutliple container instance runs on a machine. 
+
 
 
 ## Challenges with the non-containerized applications
